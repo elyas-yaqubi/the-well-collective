@@ -1,2 +1,2 @@
-# the-well-collective
-🎵 The Well Collective 🎵 - Official website
+# 🎵 The Well Collective 🎵 - Official website
+
