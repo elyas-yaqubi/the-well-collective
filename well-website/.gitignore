@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.vercel
+node_modules/        # Installed packages - EXCLUDE
+npm-debug.log       # Log files - EXCLUDE
+.npm/               # Cache - EXCLUDE
