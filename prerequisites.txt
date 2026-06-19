@@ -1,0 +1,43 @@
+# Download from: https://nodejs.org
+# Install version 18+ (LTS recommended)
+
+# Verify installation:
+node --version    # Should show v18+ or v20+
+npm --version     # Should show 9+ or 10+
+
+
+# Download from: https://git-scm.com
+# Or install via package manager
+
+# Verify:
+git --version
+
+
+npm install -g vercel
+npm install -g @sanity/cli
+
+
+Project Setup Steps
+
+1. Clone Your Repository
+
+git clone https://github.com/elyas-yaqubi/the-well-collective.git
+cd the-well-collective
+
+
+2. Install Dependencies
+
+# Install all packages listed in package.json
+npm install
+
+# This installs:
+# - React, Vite, TypeScript
+# - Framer Motion, GSAP
+# - Tailwind CSS
+# - All other dependencies
+
+
+3. Start Development Server
+
+npm run dev
+# Opens at http://localhost:5173
